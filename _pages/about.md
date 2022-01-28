@@ -6,5 +6,5 @@ title: Who am I
 ---
 
 ## About Me
-- Computer Software Department @ Hanyang Univ.
+- Computer Software Engineering Department @ Hanyang Univ.
 
